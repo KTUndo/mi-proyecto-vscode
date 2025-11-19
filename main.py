@@ -1,2 +1,3 @@
 # script de prueba
-print("Hello World")
+mensaje = "Hola desde variable"
+print(mensaje)
