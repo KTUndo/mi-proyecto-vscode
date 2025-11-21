@@ -1,3 +1,3 @@
 # script de pruebaa
-mensaje = "Hola desde variable"
+mensaje = "Hola desde variable 2"
 print(mensaje)
